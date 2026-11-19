@@ -1,0 +1,1576 @@
+{
+  "products": [
+    {
+      "code": "TKD0001",
+      "name": "Kemeja Batik Pria",
+      "category": "Pakaian Dewasa",
+      "supplier_code": "SP0012",
+      "purchase_price": "118000",
+      "selling_price": "153000",
+      "opening_stock": 75,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0002",
+      "name": "Daster Wanita",
+      "category": "Pakaian Dewasa",
+      "supplier_code": "SP0040",
+      "purchase_price": "73000",
+      "selling_price": "92000",
+      "opening_stock": 94,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0003",
+      "name": "Kaos Polos Dewasa",
+      "category": "Pakaian Dewasa",
+      "supplier_code": "SP0012",
+      "purchase_price": "113000",
+      "selling_price": "151000",
+      "opening_stock": 167,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0004",
+      "name": "Celana Jeans Dewasa",
+      "category": "Pakaian Dewasa",
+      "supplier_code": "SP0005",
+      "purchase_price": "37000",
+      "selling_price": "53000",
+      "opening_stock": 81,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0005",
+      "name": "Blus Wanita",
+      "category": "Pakaian Dewasa",
+      "supplier_code": "SP0012",
+      "purchase_price": "122000",
+      "selling_price": "168000",
+      "opening_stock": 85,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0006",
+      "name": "Kemeja Casual Pria",
+      "category": "Pakaian Dewasa",
+      "supplier_code": "SP0012",
+      "purchase_price": "110000",
+      "selling_price": "155000",
+      "opening_stock": 84,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0007",
+      "name": "Setelan Anak Laki",
+      "category": "Pakaian Anak",
+      "supplier_code": "SP0009",
+      "purchase_price": "53000",
+      "selling_price": "70000",
+      "opening_stock": 175,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0008",
+      "name": "Dress Anak Perempuan",
+      "category": "Pakaian Anak",
+      "supplier_code": "SP0009",
+      "purchase_price": "101000",
+      "selling_price": "123000",
+      "opening_stock": 150,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0009",
+      "name": "Kaos Anak",
+      "category": "Pakaian Anak",
+      "supplier_code": "SP0009",
+      "purchase_price": "95000",
+      "selling_price": "124000",
+      "opening_stock": 172,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0010",
+      "name": "Celana Pendek Anak",
+      "category": "Pakaian Anak",
+      "supplier_code": "SP0009",
+      "purchase_price": "16000",
+      "selling_price": "21000",
+      "opening_stock": 166,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0011",
+      "name": "Mukena Polos",
+      "category": "Mukena & Jilbab",
+      "supplier_code": "SP0094",
+      "purchase_price": "35000",
+      "selling_price": "46000",
+      "opening_stock": 185,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0012",
+      "name": "Mukena Motif",
+      "category": "Mukena & Jilbab",
+      "supplier_code": "SP0094",
+      "purchase_price": "133000",
+      "selling_price": "192000",
+      "opening_stock": 63,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0013",
+      "name": "Jilbab Instan",
+      "category": "Mukena & Jilbab",
+      "supplier_code": "SP0094",
+      "purchase_price": "70000",
+      "selling_price": "101000",
+      "opening_stock": 143,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0014",
+      "name": "Jilbab Pashmina",
+      "category": "Mukena & Jilbab",
+      "supplier_code": "SP0094",
+      "purchase_price": "60000",
+      "selling_price": "86000",
+      "opening_stock": 39,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0015",
+      "name": "Sarung Tangan Sholat",
+      "category": "Mukena & Jilbab",
+      "supplier_code": "SP0094",
+      "purchase_price": "43000",
+      "selling_price": "52000",
+      "opening_stock": 137,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0016",
+      "name": "Seragam SD Putih Merah",
+      "category": "Seragam Sekolah",
+      "supplier_code": "SP0055",
+      "purchase_price": "35000",
+      "selling_price": "50000",
+      "opening_stock": 66,
+      "closing_stock": 73
+    },
+    {
+      "code": "TKD0017",
+      "name": "Seragam SMP Putih Biru",
+      "category": "Seragam Sekolah",
+      "supplier_code": "SP0055",
+      "purchase_price": "94000",
+      "selling_price": "127000",
+      "opening_stock": 114,
+      "closing_stock": 85
+    },
+    {
+      "code": "TKD0018",
+      "name": "Seragam SMA Putih Abu",
+      "category": "Seragam Sekolah",
+      "supplier_code": "SP0055",
+      "purchase_price": "49000",
+      "selling_price": "65000",
+      "opening_stock": 44,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0019",
+      "name": "Seragam Batik Sekolah",
+      "category": "Seragam Sekolah",
+      "supplier_code": "SP0055",
+      "purchase_price": "69000",
+      "selling_price": "90000",
+      "opening_stock": 62,
+      "closing_stock": 12
+    },
+    {
+      "code": "TKD0020",
+      "name": "Seragam Pramuka",
+      "category": "Seragam Sekolah",
+      "supplier_code": "SP0055",
+      "purchase_price": "105000",
+      "selling_price": "151000",
+      "opening_stock": 44,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0021",
+      "name": "Sepatu Sekolah Ardiles",
+      "category": "Sepatu & Sandal",
+      "supplier_code": "SP0099",
+      "purchase_price": "48000",
+      "selling_price": "66000",
+      "opening_stock": 185,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0022",
+      "name": "Sepatu Casual Filano",
+      "category": "Sepatu & Sandal",
+      "supplier_code": "SP0099",
+      "purchase_price": "119000",
+      "selling_price": "146000",
+      "opening_stock": 66,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0023",
+      "name": "Sandal Jepit Wanita",
+      "category": "Sepatu & Sandal",
+      "supplier_code": "SP0099",
+      "purchase_price": "90000",
+      "selling_price": "112000",
+      "opening_stock": 134,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0024",
+      "name": "Sandal Gunung Anak",
+      "category": "Sepatu & Sandal",
+      "supplier_code": "SP0007",
+      "purchase_price": "52000",
+      "selling_price": "74000",
+      "opening_stock": 157,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0025",
+      "name": "Sepatu Olahraga Ardiles",
+      "category": "Sepatu & Sandal",
+      "supplier_code": "SP0099",
+      "purchase_price": "74000",
+      "selling_price": "104000",
+      "opening_stock": 122,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0026",
+      "name": "Tas Ransel Sekolah",
+      "category": "Tas",
+      "supplier_code": "SP0036",
+      "purchase_price": "62000",
+      "selling_price": "85000",
+      "opening_stock": 32,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0027",
+      "name": "Tas Selempang Wanita",
+      "category": "Tas",
+      "supplier_code": "SP0036",
+      "purchase_price": "27000",
+      "selling_price": "35000",
+      "opening_stock": 132,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0028",
+      "name": "Tas Belanja Anyaman",
+      "category": "Tas",
+      "supplier_code": "SP0036",
+      "purchase_price": "101000",
+      "selling_price": "142000",
+      "opening_stock": 128,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0029",
+      "name": "Tas Jinjing Casual",
+      "category": "Tas",
+      "supplier_code": "SP0036",
+      "purchase_price": "121000",
+      "selling_price": "170000",
+      "opening_stock": 76,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0030",
+      "name": "Kaus Kaki Anak 3pcs",
+      "category": "Kaus Kaki & Pakaian Dalam",
+      "supplier_code": "SP0026",
+      "purchase_price": "24000",
+      "selling_price": "34000",
+      "opening_stock": 143,
+      "closing_stock": 45
+    },
+    {
+      "code": "TKD0031",
+      "name": "Kaus Kaki Dewasa 3pcs",
+      "category": "Kaus Kaki & Pakaian Dalam",
+      "supplier_code": "SP0026",
+      "purchase_price": "73000",
+      "selling_price": "93000",
+      "opening_stock": 197,
+      "closing_stock": 45
+    },
+    {
+      "code": "TKD0032",
+      "name": "Pakaian Dalam Wanita",
+      "category": "Kaus Kaki & Pakaian Dalam",
+      "supplier_code": "SP0026",
+      "purchase_price": "94000",
+      "selling_price": "115000",
+      "opening_stock": 85,
+      "closing_stock": 68
+    },
+    {
+      "code": "TKD0033",
+      "name": "Pakaian Dalam Pria",
+      "category": "Kaus Kaki & Pakaian Dalam",
+      "supplier_code": "SP0026",
+      "purchase_price": "78000",
+      "selling_price": "101000",
+      "opening_stock": 50,
+      "closing_stock": 45
+    },
+    {
+      "code": "TKD0034",
+      "name": "Singlet Anak",
+      "category": "Kaus Kaki & Pakaian Dalam",
+      "supplier_code": "SP0026",
+      "purchase_price": "127000",
+      "selling_price": "166000",
+      "opening_stock": 47,
+      "closing_stock": 2
+    },
+    {
+      "code": "TKD0035",
+      "name": "Kain Panjang Batik",
+      "category": "Kain & Gorden",
+      "supplier_code": "SP0019",
+      "purchase_price": "143000",
+      "selling_price": "182000",
+      "opening_stock": 152,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0036",
+      "name": "Kain Panjang Polos",
+      "category": "Kain & Gorden",
+      "supplier_code": "SP0019",
+      "purchase_price": "47000",
+      "selling_price": "67000",
+      "opening_stock": 140,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0037",
+      "name": "Gorden Jendela",
+      "category": "Kain & Gorden",
+      "supplier_code": "SP0031",
+      "purchase_price": "89000",
+      "selling_price": "116000",
+      "opening_stock": 102,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0038",
+      "name": "Sprei Polos",
+      "category": "Kain & Gorden",
+      "supplier_code": "SP0019",
+      "purchase_price": "112000",
+      "selling_price": "153000",
+      "opening_stock": 79,
+      "closing_stock": 0
+    },
+    {
+      "code": "TKD0039",
+      "name": "Buku Tulis 10pcs",
+      "category": "ATK & Perlengkapan Sekolah",
+      "supplier_code": "SP0041",
+      "purchase_price": "112000",
+      "selling_price": "144000",
+      "opening_stock": 118,
+      "closing_stock": 55
+    },
+    {
+      "code": "TKD0040",
+      "name": "Pensil 2B Aneka Poster",
+      "category": "ATK & Perlengkapan Sekolah",
+      "supplier_code": "SP0041",
+      "purchase_price": "16000",
+      "selling_price": "22000",
+      "opening_stock": 79,
+      "closing_stock": 27
+    },
+    {
+      "code": "TKD0041",
+      "name": "Penggaris 30cm",
+      "category": "ATK & Perlengkapan Sekolah",
+      "supplier_code": "SP0041",
+      "purchase_price": "58000",
+      "selling_price": "81000",
+      "opening_stock": 198,
+      "closing_stock": 26
+    },
+    {
+      "code": "TKD0042",
+      "name": "Rautan Pensil",
+      "category": "ATK & Perlengkapan Sekolah",
+      "supplier_code": "SP0041",
+      "purchase_price": "121000",
+      "selling_price": "168000",
+      "opening_stock": 134,
+      "closing_stock": 120
+    },
+    {
+      "code": "TKD0043",
+      "name": "Pulpen Hitam 5pcs",
+      "category": "ATK & Perlengkapan Sekolah",
+      "supplier_code": "SP0041",
+      "purchase_price": "103000",
+      "selling_price": "141000",
+      "opening_stock": 58,
+      "closing_stock": 42
+    },
+    {
+      "code": "TKD0044",
+      "name": "Mainan Puzzle Anak",
+      "category": "Mainan Anak",
+      "supplier_code": "SP0033",
+      "purchase_price": "143000",
+      "selling_price": "191000",
+      "opening_stock": 163,
+      "closing_stock": 49
+    },
+    {
+      "code": "TKD0045",
+      "name": "Mobil-mobilan",
+      "category": "Mainan Anak",
+      "supplier_code": "SP0033",
+      "purchase_price": "94000",
+      "selling_price": "135000",
+      "opening_stock": 160,
+      "closing_stock": 56
+    },
+    {
+      "code": "TKD0046",
+      "name": "Boneka Kecil",
+      "category": "Mainan Anak",
+      "supplier_code": "SP0033",
+      "purchase_price": "128000",
+      "selling_price": "183000",
+      "opening_stock": 136,
+      "closing_stock": 21
+    },
+    {
+      "code": "TKD0047",
+      "name": "Lego Duplo Mini",
+      "category": "Mainan Anak",
+      "supplier_code": "SP0033",
+      "purchase_price": "134000",
+      "selling_price": "180000",
+      "opening_stock": 81,
+      "closing_stock": 71
+    },
+    {
+      "code": "TKD0048",
+      "name": "Bunga Artificial Mawar",
+      "category": "Bunga & Dekorasi",
+      "supplier_code": "SP0017",
+      "purchase_price": "20000",
+      "selling_price": "29000",
+      "opening_stock": 49,
+      "closing_stock": 29
+    },
+    {
+      "code": "TKD0049",
+      "name": "Tanaman Plastik Mini",
+      "category": "Bunga & Dekorasi",
+      "supplier_code": "SP0017",
+      "purchase_price": "23000",
+      "selling_price": "33000",
+      "opening_stock": 106,
+      "closing_stock": 53
+    },
+    {
+      "code": "TKD0050",
+      "name": "Pot Bunga Plastik",
+      "category": "Bunga & Dekorasi",
+      "supplier_code": "SP0017",
+      "purchase_price": "109000",
+      "selling_price": "157000",
+      "opening_stock": 79,
+      "closing_stock": 73
+    },
+    {
+      "code": "TKD0051",
+      "name": "Hanger Baju 10pcs",
+      "category": "Peralatan Rumah",
+      "supplier_code": "SP0028",
+      "purchase_price": "40000",
+      "selling_price": "58000",
+      "opening_stock": 132,
+      "closing_stock": 156
+    },
+    {
+      "code": "TKD0052",
+      "name": "Keranjang Cucian",
+      "category": "Peralatan Rumah",
+      "supplier_code": "SP0028",
+      "purchase_price": "59000",
+      "selling_price": "75000",
+      "opening_stock": 62,
+      "closing_stock": 31
+    },
+    {
+      "code": "TKD0053",
+      "name": "Ember Plastik",
+      "category": "Peralatan Rumah",
+      "supplier_code": "SP0028",
+      "purchase_price": "48000",
+      "selling_price": "68000",
+      "opening_stock": 137,
+      "closing_stock": 111
+    },
+    {
+      "code": "TKD0054",
+      "name": "Keset Kaki",
+      "category": "Peralatan Rumah",
+      "supplier_code": "SP0028",
+      "purchase_price": "60000",
+      "selling_price": "77000",
+      "opening_stock": 100,
+      "closing_stock": 86
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "SP0041",
+      "name": "ANEKA POSTER",
+      "city": "Bandung",
+      "contact_name": "Dewi Anggraini",
+      "phone": "0812-3400-4101",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0099",
+      "name": "ARDILES",
+      "city": "Jakarta",
+      "contact_name": "Rudi Hartono",
+      "phone": "0812-3400-9902",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0040",
+      "name": "BARALEK",
+      "city": "Pekanbaru",
+      "contact_name": "Siti Rahma",
+      "phone": "0812-3400-4003",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0009",
+      "name": "CITRA BARU",
+      "city": "Medan",
+      "contact_name": "Andi Saputra",
+      "phone": "0812-3400-0904",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0031",
+      "name": "EDI SAIYO",
+      "city": "Padang",
+      "contact_name": "Maya Putri",
+      "phone": "0812-3400-3105",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0007",
+      "name": "FILANO",
+      "city": "Jakarta",
+      "contact_name": "Budi Santoso",
+      "phone": "0812-3400-0706",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0094",
+      "name": "HNH",
+      "city": "Bandung",
+      "contact_name": "Rina Kurnia",
+      "phone": "0812-3400-9407",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0005",
+      "name": "KARYA MULIA",
+      "city": "Medan",
+      "contact_name": "Agus Salim",
+      "phone": "0812-3400-0508",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0019",
+      "name": "LUNDANG",
+      "city": "Pekanbaru",
+      "contact_name": "Lina Marlina",
+      "phone": "0812-3400-1909",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0026",
+      "name": "NOVA",
+      "city": "Pekanbaru",
+      "contact_name": "Fajar Nugraha",
+      "phone": "0812-3400-2610",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0036",
+      "name": "PRO ATT",
+      "city": "Jakarta",
+      "contact_name": "Tono Wijaya",
+      "phone": "0812-3400-3611",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0012",
+      "name": "MITRA SANDANG",
+      "city": "Jakarta",
+      "contact_name": "Sari Wulandari",
+      "phone": "0812-3400-1212",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0055",
+      "name": "UNIFORM INDO",
+      "city": "Jakarta",
+      "contact_name": "Dedi Firmansyah",
+      "phone": "0812-3400-5513",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0033",
+      "name": "TOY DIST",
+      "city": "Bandung",
+      "contact_name": "Nina Safitri",
+      "phone": "0812-3400-3314",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0017",
+      "name": "DEKOR INDAH",
+      "city": "Bandung",
+      "contact_name": "Eko Prasetyo",
+      "phone": "0812-3400-1715",
+      "status": "Aktif"
+    },
+    {
+      "code": "SP0028",
+      "name": "RUMAH TANGGA",
+      "city": "Medan",
+      "contact_name": "Yuni Astuti",
+      "phone": "0812-3400-2816",
+      "status": "Aktif"
+    }
+  ],
+  "transactions": [
+    {
+      "source_code": "000000001/SO/UTM/01042026",
+      "sold_at": "2026-04-01 15:36:57",
+      "product_code": "TKD0037",
+      "quantity": 4,
+      "unit_price": "116000",
+      "line_total": "464000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000000090/SO/UTM/01042026",
+      "sold_at": "2026-04-01 15:40:20",
+      "product_code": "TKD0005",
+      "quantity": 4,
+      "unit_price": "168000",
+      "line_total": "672000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000000183/SO/UTM/01042026",
+      "sold_at": "2026-04-01 17:55:27",
+      "product_code": "TKD0003",
+      "quantity": 1,
+      "unit_price": "151000",
+      "line_total": "151000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000000275/SO/UTM/01042026",
+      "sold_at": "2026-04-01 18:52:41",
+      "product_code": "TKD0024",
+      "quantity": 4,
+      "unit_price": "74000",
+      "line_total": "296000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000000367/SO/UTM/01042026",
+      "sold_at": "2026-04-01 14:24:44",
+      "product_code": "TKD0038",
+      "quantity": 1,
+      "unit_price": "153000",
+      "line_total": "153000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000000459/SO/UTM/02042026",
+      "sold_at": "2026-04-02 11:57:53",
+      "product_code": "TKD0013",
+      "quantity": 4,
+      "unit_price": "101000",
+      "line_total": "404000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000000549/SO/UTM/02042026",
+      "sold_at": "2026-04-02 12:03:07",
+      "product_code": "TKD0002",
+      "quantity": 2,
+      "unit_price": "92000",
+      "line_total": "184000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000000641/SO/UTM/02042026",
+      "sold_at": "2026-04-02 19:23:29",
+      "product_code": "TKD0009",
+      "quantity": 3,
+      "unit_price": "124000",
+      "line_total": "372000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000000734/SO/UTM/02042026",
+      "sold_at": "2026-04-02 17:31:29",
+      "product_code": "TKD0012",
+      "quantity": 3,
+      "unit_price": "192000",
+      "line_total": "576000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000000828/SO/UTM/03042026",
+      "sold_at": "2026-04-03 18:48:26",
+      "product_code": "TKD0015",
+      "quantity": 4,
+      "unit_price": "52000",
+      "line_total": "208000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000000925/SO/UTM/03042026",
+      "sold_at": "2026-04-03 13:25:28",
+      "product_code": "TKD0002",
+      "quantity": 1,
+      "unit_price": "92000",
+      "line_total": "92000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000001014/SO/UTM/03042026",
+      "sold_at": "2026-04-03 18:31:12",
+      "product_code": "TKD0013",
+      "quantity": 3,
+      "unit_price": "101000",
+      "line_total": "303000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000001105/SO/UTM/03042026",
+      "sold_at": "2026-04-03 15:13:06",
+      "product_code": "TKD0029",
+      "quantity": 2,
+      "unit_price": "170000",
+      "line_total": "340000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000001196/SO/UTM/03042026",
+      "sold_at": "2026-04-03 16:38:20",
+      "product_code": "TKD0003",
+      "quantity": 3,
+      "unit_price": "151000",
+      "line_total": "453000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000001290/SO/UTM/03042026",
+      "sold_at": "2026-04-03 16:34:44",
+      "product_code": "TKD0021",
+      "quantity": 2,
+      "unit_price": "66000",
+      "line_total": "132000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000001380/SO/UTM/04042026",
+      "sold_at": "2026-04-04 18:12:19",
+      "product_code": "TKD0038",
+      "quantity": 4,
+      "unit_price": "153000",
+      "line_total": "612000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000001471/SO/UTM/04042026",
+      "sold_at": "2026-04-04 18:39:59",
+      "product_code": "TKD0036",
+      "quantity": 4,
+      "unit_price": "67000",
+      "line_total": "268000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000001561/SO/UTM/04042026",
+      "sold_at": "2026-04-04 09:37:09",
+      "product_code": "TKD0048",
+      "quantity": 2,
+      "unit_price": "29000",
+      "line_total": "58000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000001655/SO/UTM/04042026",
+      "sold_at": "2026-04-04 09:32:51",
+      "product_code": "TKD0026",
+      "quantity": 1,
+      "unit_price": "85000",
+      "line_total": "85000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000001744/SO/UTM/04042026",
+      "sold_at": "2026-04-04 12:49:59",
+      "product_code": "TKD0022",
+      "quantity": 2,
+      "unit_price": "146000",
+      "line_total": "292000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000001831/SO/UTM/04042026",
+      "sold_at": "2026-04-04 19:18:19",
+      "product_code": "TKD0003",
+      "quantity": 2,
+      "unit_price": "151000",
+      "line_total": "302000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000001923/SO/UTM/05042026",
+      "sold_at": "2026-04-05 20:51:46",
+      "product_code": "TKD0033",
+      "quantity": 1,
+      "unit_price": "101000",
+      "line_total": "101000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000002012/SO/UTM/05042026",
+      "sold_at": "2026-04-05 17:34:53",
+      "product_code": "TKD0009",
+      "quantity": 3,
+      "unit_price": "124000",
+      "line_total": "372000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000002105/SO/UTM/05042026",
+      "sold_at": "2026-04-05 15:40:34",
+      "product_code": "TKD0007",
+      "quantity": 2,
+      "unit_price": "70000",
+      "line_total": "140000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000002197/SO/UTM/05042026",
+      "sold_at": "2026-04-05 15:52:02",
+      "product_code": "TKD0007",
+      "quantity": 2,
+      "unit_price": "70000",
+      "line_total": "140000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000002288/SO/UTM/05042026",
+      "sold_at": "2026-04-05 16:49:57",
+      "product_code": "TKD0011",
+      "quantity": 1,
+      "unit_price": "46000",
+      "line_total": "46000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000002382/SO/UTM/05042026",
+      "sold_at": "2026-04-05 16:34:34",
+      "product_code": "TKD0047",
+      "quantity": 4,
+      "unit_price": "180000",
+      "line_total": "720000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000002473/SO/UTM/05042026",
+      "sold_at": "2026-04-05 11:01:57",
+      "product_code": "TKD0032",
+      "quantity": 2,
+      "unit_price": "115000",
+      "line_total": "230000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000002566/SO/UTM/06042026",
+      "sold_at": "2026-04-06 16:19:14",
+      "product_code": "TKD0025",
+      "quantity": 4,
+      "unit_price": "104000",
+      "line_total": "416000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000002652/SO/UTM/06042026",
+      "sold_at": "2026-04-06 15:08:37",
+      "product_code": "TKD0018",
+      "quantity": 1,
+      "unit_price": "65000",
+      "line_total": "65000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000002745/SO/UTM/06042026",
+      "sold_at": "2026-04-06 09:36:31",
+      "product_code": "TKD0022",
+      "quantity": 1,
+      "unit_price": "146000",
+      "line_total": "146000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000002837/SO/UTM/06042026",
+      "sold_at": "2026-04-06 09:11:18",
+      "product_code": "TKD0024",
+      "quantity": 4,
+      "unit_price": "74000",
+      "line_total": "296000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000002925/SO/UTM/07042026",
+      "sold_at": "2026-04-07 16:35:36",
+      "product_code": "TKD0023",
+      "quantity": 4,
+      "unit_price": "112000",
+      "line_total": "448000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003016/SO/UTM/07042026",
+      "sold_at": "2026-04-07 19:20:33",
+      "product_code": "TKD0017",
+      "quantity": 3,
+      "unit_price": "127000",
+      "line_total": "381000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003105/SO/UTM/07042026",
+      "sold_at": "2026-04-07 20:02:24",
+      "product_code": "TKD0012",
+      "quantity": 2,
+      "unit_price": "192000",
+      "line_total": "384000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000003194/SO/UTM/07042026",
+      "sold_at": "2026-04-07 16:08:11",
+      "product_code": "TKD0001",
+      "quantity": 2,
+      "unit_price": "153000",
+      "line_total": "306000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003284/SO/UTM/08042026",
+      "sold_at": "2026-04-08 19:52:12",
+      "product_code": "TKD0052",
+      "quantity": 1,
+      "unit_price": "75000",
+      "line_total": "75000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003374/SO/UTM/08042026",
+      "sold_at": "2026-04-08 20:22:36",
+      "product_code": "TKD0008",
+      "quantity": 4,
+      "unit_price": "123000",
+      "line_total": "492000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003464/SO/UTM/08042026",
+      "sold_at": "2026-04-08 20:55:14",
+      "product_code": "TKD0020",
+      "quantity": 1,
+      "unit_price": "151000",
+      "line_total": "151000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003555/SO/UTM/08042026",
+      "sold_at": "2026-04-08 12:52:51",
+      "product_code": "TKD0006",
+      "quantity": 4,
+      "unit_price": "155000",
+      "line_total": "620000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003650/SO/UTM/08042026",
+      "sold_at": "2026-04-08 11:22:26",
+      "product_code": "TKD0014",
+      "quantity": 4,
+      "unit_price": "86000",
+      "line_total": "344000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003741/SO/UTM/09042026",
+      "sold_at": "2026-04-09 18:12:31",
+      "product_code": "TKD0007",
+      "quantity": 4,
+      "unit_price": "70000",
+      "line_total": "280000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000003830/SO/UTM/09042026",
+      "sold_at": "2026-04-09 10:19:52",
+      "product_code": "TKD0035",
+      "quantity": 4,
+      "unit_price": "182000",
+      "line_total": "728000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000003919/SO/UTM/09042026",
+      "sold_at": "2026-04-09 17:22:41",
+      "product_code": "TKD0039",
+      "quantity": 4,
+      "unit_price": "144000",
+      "line_total": "576000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004009/SO/UTM/09042026",
+      "sold_at": "2026-04-09 13:20:52",
+      "product_code": "TKD0049",
+      "quantity": 1,
+      "unit_price": "33000",
+      "line_total": "33000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004103/SO/UTM/10042026",
+      "sold_at": "2026-04-10 20:13:07",
+      "product_code": "TKD0038",
+      "quantity": 4,
+      "unit_price": "153000",
+      "line_total": "612000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004192/SO/UTM/10042026",
+      "sold_at": "2026-04-10 19:45:03",
+      "product_code": "TKD0026",
+      "quantity": 2,
+      "unit_price": "85000",
+      "line_total": "170000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004284/SO/UTM/10042026",
+      "sold_at": "2026-04-10 09:06:55",
+      "product_code": "TKD0029",
+      "quantity": 4,
+      "unit_price": "170000",
+      "line_total": "680000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004373/SO/UTM/10042026",
+      "sold_at": "2026-04-10 20:55:48",
+      "product_code": "TKD0024",
+      "quantity": 3,
+      "unit_price": "74000",
+      "line_total": "222000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000004467/SO/UTM/11042026",
+      "sold_at": "2026-04-11 09:09:03",
+      "product_code": "TKD0013",
+      "quantity": 3,
+      "unit_price": "101000",
+      "line_total": "303000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000004559/SO/UTM/11042026",
+      "sold_at": "2026-04-11 18:32:32",
+      "product_code": "TKD0038",
+      "quantity": 2,
+      "unit_price": "153000",
+      "line_total": "306000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000004654/SO/UTM/11042026",
+      "sold_at": "2026-04-11 10:59:23",
+      "product_code": "TKD0006",
+      "quantity": 2,
+      "unit_price": "155000",
+      "line_total": "310000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000004743/SO/UTM/11042026",
+      "sold_at": "2026-04-11 11:27:49",
+      "product_code": "TKD0020",
+      "quantity": 4,
+      "unit_price": "151000",
+      "line_total": "604000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004833/SO/UTM/11042026",
+      "sold_at": "2026-04-11 12:40:56",
+      "product_code": "TKD0047",
+      "quantity": 4,
+      "unit_price": "180000",
+      "line_total": "720000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000004925/SO/UTM/11042026",
+      "sold_at": "2026-04-11 17:06:03",
+      "product_code": "TKD0011",
+      "quantity": 2,
+      "unit_price": "46000",
+      "line_total": "92000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000005019/SO/UTM/12042026",
+      "sold_at": "2026-04-12 17:25:24",
+      "product_code": "TKD0029",
+      "quantity": 2,
+      "unit_price": "170000",
+      "line_total": "340000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000005112/SO/UTM/12042026",
+      "sold_at": "2026-04-12 17:46:29",
+      "product_code": "TKD0039",
+      "quantity": 4,
+      "unit_price": "144000",
+      "line_total": "576000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005202/SO/UTM/12042026",
+      "sold_at": "2026-04-12 17:24:16",
+      "product_code": "TKD0026",
+      "quantity": 4,
+      "unit_price": "85000",
+      "line_total": "340000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005294/SO/UTM/12042026",
+      "sold_at": "2026-04-12 09:00:45",
+      "product_code": "TKD0008",
+      "quantity": 1,
+      "unit_price": "123000",
+      "line_total": "123000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005389/SO/UTM/12042026",
+      "sold_at": "2026-04-12 12:27:13",
+      "product_code": "TKD0021",
+      "quantity": 4,
+      "unit_price": "66000",
+      "line_total": "264000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005484/SO/UTM/13042026",
+      "sold_at": "2026-04-13 20:29:51",
+      "product_code": "TKD0014",
+      "quantity": 3,
+      "unit_price": "86000",
+      "line_total": "258000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005576/SO/UTM/13042026",
+      "sold_at": "2026-04-13 17:12:04",
+      "product_code": "TKD0014",
+      "quantity": 1,
+      "unit_price": "86000",
+      "line_total": "86000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005667/SO/UTM/13042026",
+      "sold_at": "2026-04-13 11:33:27",
+      "product_code": "TKD0029",
+      "quantity": 3,
+      "unit_price": "170000",
+      "line_total": "510000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000005756/SO/UTM/13042026",
+      "sold_at": "2026-04-13 13:49:42",
+      "product_code": "TKD0018",
+      "quantity": 3,
+      "unit_price": "65000",
+      "line_total": "195000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000005849/SO/UTM/13042026",
+      "sold_at": "2026-04-13 13:09:59",
+      "product_code": "TKD0007",
+      "quantity": 3,
+      "unit_price": "70000",
+      "line_total": "210000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000005939/SO/UTM/13042026",
+      "sold_at": "2026-04-13 16:26:06",
+      "product_code": "TKD0021",
+      "quantity": 3,
+      "unit_price": "66000",
+      "line_total": "198000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000006032/SO/UTM/14042026",
+      "sold_at": "2026-04-14 11:41:29",
+      "product_code": "TKD0027",
+      "quantity": 4,
+      "unit_price": "35000",
+      "line_total": "140000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006127/SO/UTM/14042026",
+      "sold_at": "2026-04-14 08:40:55",
+      "product_code": "TKD0036",
+      "quantity": 2,
+      "unit_price": "67000",
+      "line_total": "134000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006215/SO/UTM/14042026",
+      "sold_at": "2026-04-14 16:47:06",
+      "product_code": "TKD0003",
+      "quantity": 1,
+      "unit_price": "151000",
+      "line_total": "151000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006305/SO/UTM/14042026",
+      "sold_at": "2026-04-14 12:31:38",
+      "product_code": "TKD0007",
+      "quantity": 2,
+      "unit_price": "70000",
+      "line_total": "140000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006398/SO/UTM/15042026",
+      "sold_at": "2026-04-15 20:32:39",
+      "product_code": "TKD0015",
+      "quantity": 3,
+      "unit_price": "52000",
+      "line_total": "156000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006490/SO/UTM/15042026",
+      "sold_at": "2026-04-15 17:16:13",
+      "product_code": "TKD0021",
+      "quantity": 2,
+      "unit_price": "66000",
+      "line_total": "132000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000006579/SO/UTM/15042026",
+      "sold_at": "2026-04-15 17:05:07",
+      "product_code": "TKD0035",
+      "quantity": 2,
+      "unit_price": "182000",
+      "line_total": "364000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000006670/SO/UTM/15042026",
+      "sold_at": "2026-04-15 08:35:44",
+      "product_code": "TKD0004",
+      "quantity": 3,
+      "unit_price": "53000",
+      "line_total": "159000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000006759/SO/UTM/16042026",
+      "sold_at": "2026-04-16 14:04:49",
+      "product_code": "TKD0016",
+      "quantity": 1,
+      "unit_price": "50000",
+      "line_total": "50000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006849/SO/UTM/16042026",
+      "sold_at": "2026-04-16 14:55:16",
+      "product_code": "TKD0004",
+      "quantity": 3,
+      "unit_price": "53000",
+      "line_total": "159000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000006941/SO/UTM/16042026",
+      "sold_at": "2026-04-16 13:43:01",
+      "product_code": "TKD0007",
+      "quantity": 2,
+      "unit_price": "70000",
+      "line_total": "140000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007031/SO/UTM/16042026",
+      "sold_at": "2026-04-16 10:01:27",
+      "product_code": "TKD0003",
+      "quantity": 2,
+      "unit_price": "151000",
+      "line_total": "302000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007119/SO/UTM/17042026",
+      "sold_at": "2026-04-17 17:16:12",
+      "product_code": "TKD0027",
+      "quantity": 3,
+      "unit_price": "35000",
+      "line_total": "105000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000007209/SO/UTM/17042026",
+      "sold_at": "2026-04-17 13:44:18",
+      "product_code": "TKD0015",
+      "quantity": 1,
+      "unit_price": "52000",
+      "line_total": "52000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007297/SO/UTM/17042026",
+      "sold_at": "2026-04-17 13:57:38",
+      "product_code": "TKD0029",
+      "quantity": 4,
+      "unit_price": "170000",
+      "line_total": "680000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007388/SO/UTM/17042026",
+      "sold_at": "2026-04-17 14:19:38",
+      "product_code": "TKD0015",
+      "quantity": 1,
+      "unit_price": "52000",
+      "line_total": "52000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007478/SO/UTM/17042026",
+      "sold_at": "2026-04-17 18:25:23",
+      "product_code": "TKD0025",
+      "quantity": 1,
+      "unit_price": "104000",
+      "line_total": "104000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007566/SO/UTM/18042026",
+      "sold_at": "2026-04-18 14:55:27",
+      "product_code": "TKD0037",
+      "quantity": 3,
+      "unit_price": "116000",
+      "line_total": "348000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000007656/SO/UTM/18042026",
+      "sold_at": "2026-04-18 13:14:01",
+      "product_code": "TKD0053",
+      "quantity": 3,
+      "unit_price": "68000",
+      "line_total": "204000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000007753/SO/UTM/18042026",
+      "sold_at": "2026-04-18 08:42:44",
+      "product_code": "TKD0024",
+      "quantity": 3,
+      "unit_price": "74000",
+      "line_total": "222000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000007844/SO/UTM/18042026",
+      "sold_at": "2026-04-18 10:50:45",
+      "product_code": "TKD0035",
+      "quantity": 3,
+      "unit_price": "182000",
+      "line_total": "546000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000007937/SO/UTM/18042026",
+      "sold_at": "2026-04-18 12:03:02",
+      "product_code": "TKD0028",
+      "quantity": 3,
+      "unit_price": "142000",
+      "line_total": "426000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008029/SO/UTM/18042026",
+      "sold_at": "2026-04-18 16:18:30",
+      "product_code": "TKD0029",
+      "quantity": 2,
+      "unit_price": "170000",
+      "line_total": "340000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008121/SO/UTM/19042026",
+      "sold_at": "2026-04-19 17:18:33",
+      "product_code": "TKD0004",
+      "quantity": 1,
+      "unit_price": "53000",
+      "line_total": "53000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000008212/SO/UTM/19042026",
+      "sold_at": "2026-04-19 19:58:58",
+      "product_code": "TKD0040",
+      "quantity": 1,
+      "unit_price": "22000",
+      "line_total": "22000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008305/SO/UTM/19042026",
+      "sold_at": "2026-04-19 14:42:03",
+      "product_code": "TKD0004",
+      "quantity": 3,
+      "unit_price": "53000",
+      "line_total": "159000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008395/SO/UTM/19042026",
+      "sold_at": "2026-04-19 17:07:55",
+      "product_code": "TKD0001",
+      "quantity": 4,
+      "unit_price": "153000",
+      "line_total": "612000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000008488/SO/UTM/19042026",
+      "sold_at": "2026-04-19 15:58:51",
+      "product_code": "TKD0035",
+      "quantity": 2,
+      "unit_price": "182000",
+      "line_total": "364000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008584/SO/UTM/19042026",
+      "sold_at": "2026-04-19 09:08:29",
+      "product_code": "TKD0014",
+      "quantity": 4,
+      "unit_price": "86000",
+      "line_total": "344000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008675/SO/UTM/20042026",
+      "sold_at": "2026-04-20 19:38:09",
+      "product_code": "TKD0022",
+      "quantity": 1,
+      "unit_price": "146000",
+      "line_total": "146000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000008764/SO/UTM/20042026",
+      "sold_at": "2026-04-20 18:33:34",
+      "product_code": "TKD0010",
+      "quantity": 2,
+      "unit_price": "21000",
+      "line_total": "42000",
+      "payment_method": "transfer"
+    },
+    {
+      "source_code": "000008852/SO/UTM/20042026",
+      "sold_at": "2026-04-20 08:25:38",
+      "product_code": "TKD0013",
+      "quantity": 4,
+      "unit_price": "101000",
+      "line_total": "404000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000008947/SO/UTM/20042026",
+      "sold_at": "2026-04-20 17:39:37",
+      "product_code": "TKD0034",
+      "quantity": 3,
+      "unit_price": "166000",
+      "line_total": "498000",
+      "payment_method": "cash"
+    },
+    {
+      "source_code": "000009041/SO/UTM/20042026",
+      "sold_at": "2026-04-20 20:48:57",
+      "product_code": "TKD0044",
+      "quantity": 4,
+      "unit_price": "191000",
+      "line_total": "764000",
+      "payment_method": "transfer"
+    }
+  ]
+}
