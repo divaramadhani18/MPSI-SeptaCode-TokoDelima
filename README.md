@@ -1,6 +1,6 @@
 # Sistem Informasi Toko Delima
 
-Aplikasi web lokal untuk pengelolaan stok, pembelian, dan transaksi kasir. Dibangun dengan Laravel 12, PHP 8.2+ (ekstensi `bcmath`), MySQL, Blade, dan Vite.
+Aplikasi web untuk pengelolaan stok, pembelian, dan transaksi kasir. Dibangun dengan Laravel 12, PHP 8.2+ (ekstensi `bcmath`), MySQL, Blade, dan Vite. Aplikasi dapat dijalankan secara lokal atau di-deploy ke Vercel menggunakan Docker dan FrankenPHP.
 
 ## Menjalankan pertama kali
 
@@ -38,6 +38,32 @@ Lihat [Panduan Demo Website](./PANDUAN-DEMO.md) untuk langkah menjalankan demo l
    ```
 
 6. Buka <http://127.0.0.1:8000> dan masuk menggunakan akun demo.
+
+## Deploy ke Vercel
+
+Repo ini sudah menyertakan `vercel.json` dan `Dockerfile` untuk deployment dengan Docker dan FrankenPHP. Deployment diarahkan ke region Singapura (`sin1`) dan tetap memerlukan database MySQL yang dapat diakses dari Vercel.
+
+1. Import repository GitHub ini sebagai proyek baru di Vercel. Pastikan root directory mengarah ke direktori proyek yang berisi `vercel.json`.
+2. Tambahkan environment variables berikut di **Project Settings → Environment Variables**. Simpan nilai rahasia hanya di pengaturan Vercel, jangan di commit ke repository.
+
+   | Variabel | Nilai |
+   |---|---|
+   | `APP_ENV` | `production` |
+   | `APP_DEBUG` | `false` |
+   | `APP_KEY` | Kunci Laravel yang dibuat dengan `php artisan key:generate --show` |
+   | `APP_URL` | URL deployment aplikasi, misalnya `https://nama-proyek.vercel.app` |
+   | `DB_CONNECTION` | `mysql` |
+   | `DB_HOST` | Host database MySQL yang dapat diakses dari Vercel |
+   | `DB_PORT` | Port database MySQL, biasanya `3306` |
+   | `DB_DATABASE` | Nama database |
+   | `DB_USERNAME` | Username database |
+   | `DB_PASSWORD` | Password database |
+
+   Masukkan variabel untuk environment Vercel yang digunakan (Production, dan Preview jika diperlukan). Gunakan database dan kredensial terpisah untuk Preview bila memungkinkan.
+3. Siapkan schema database dengan menjalankan `php artisan migrate --force` dari environment yang memiliki koneksi ke database tersebut. Konfigurasi Docker tidak menjalankan migrasi atau seeder secara otomatis.
+4. Deploy proyek dari Vercel dan periksa URL deployment. Untuk memperbarui aplikasi, push perubahan ke branch yang terhubung dengan proyek.
+
+Jangan jalankan `php artisan migrate:fresh --seed` pada database produksi: perintah tersebut menghapus semua tabel dan data, sedangkan seeder membuat akun serta data demo. Jalankan seeder hanya pada database demo yang memang boleh diisi ulang.
 
 ## Role dan batas akses
 
