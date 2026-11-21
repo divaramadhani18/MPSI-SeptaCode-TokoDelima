@@ -19,10 +19,7 @@ Sistem Informasi Toko Delima adalah aplikasi untuk membantu mengelola barang, pe
 
 Buka [tokodelima.vercel.app](https://tokodelima.vercel.app), lalu masuk menggunakan akun yang diberikan oleh pengelola toko. Hubungi pengelola jika belum memiliki akun atau mengalami kendala akses.
 
-Untuk menjalankan demo di komputer Windows, melihat akun demo, dan mengikuti alur presentasi, buka [Panduan Demo Website](./PANDUAN-DEMO.md).
+Untuk menjalankan demo di komputer Windows, dan melihat akun demo buka [Panduan Demo Website](./PANDUAN-DEMO.md).
 
 ## Catatan
-
-Data yang disediakan untuk demo adalah data contoh, bukan data Toko Delima yang sebenarnya. Pada versi ini, transaksi yang sudah tersimpan tidak dapat diedit atau dibatalkan; fitur retur belum tersedia.
-
 Pengelola teknis dapat melihat [Panduan Deployment](./PANDUAN-DEPLOYMENT.md).
