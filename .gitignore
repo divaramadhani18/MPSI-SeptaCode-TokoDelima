@@ -1,7 +1,6 @@
 /.phpunit.cache
 /node_modules
-/.venv
-/public/build
+# /public/build
 /public/hot
 /public/storage
 /storage/*.key
